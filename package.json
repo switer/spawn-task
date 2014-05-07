@@ -1,0 +1,27 @@
+{
+  "name": "spawn-task",
+  "version": "0.0.0",
+  "description": "Tasks runing in concurrent. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/switer/spawn-task"
+  },
+  "keywords": [
+    "spawn",
+    "task",
+    "concurrent"
+  ],
+  "author": "switer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/switer/spawn-task/issues"
+  },
+  "homepage": "https://github.com/switer/spawn-task",
+  "dependencies": {
+    "colors": "^0.6.2"
+  }
+}
